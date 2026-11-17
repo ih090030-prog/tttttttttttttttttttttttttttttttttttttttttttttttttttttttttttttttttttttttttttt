@@ -1,0 +1,4 @@
+[
+  { "name": "Example video", "type": "video", "src": "/wallpapers/example.mp4", "thumb": "" },
+  { "name": "Example image", "type": "image", "src": "/wallpapers/example.jpg", "thumb": "/wallpapers/example.jpg" }
+]
